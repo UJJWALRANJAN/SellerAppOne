@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SellerAppOne</string>
+    <string name="name">Name</string>
+    <string name="alt_mobile">Alt Mobile</string>
+    <string name="address">Address</string>
+    <string name="aadhar_no">Aadhar No.</string>
+    <string name="pin">PIN</string>
+    <string name="city">City</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="mobile_no">Mobile No.</string>
+
+    <string name="password">password</string>
+    <string name="signup">signup</string>
+</resources>
